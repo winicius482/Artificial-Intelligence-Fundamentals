@@ -1,9 +1,6 @@
-# Artificial-Intelligence-Fundamentals
-
+Artificial-Intelligence-Fundamentals
 
 Trabalho de Artificial Intelligence Fundamentals Rota Inteligente: Otimização de Entregas com IA
-
-Projeto da disciplina Artificial Intelligence Fundamentals
 
 Descrição do Problema
 A empresa local Sabor Express enfrenta dificuldades na definição eficiente de rotas de entrega durante horários de pico (almoço e jantar). Atualmente, as rotas são definidas manualmente, com base apenas na experiência dos entregadores.
